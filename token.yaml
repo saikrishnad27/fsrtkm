@@ -1,0 +1,37 @@
+123:
+  writer:
+    localhost:8000
+  reader:
+    [
+    localhost:8004,
+    localhost:8001,
+    localhost:8002,
+    localhost:8003
+    ]
+124:
+  writer:
+    localhost:8000
+  reader:
+    [
+    localhost:8002,
+    localhost:8001,
+    localhost:8000
+    ]
+12345:
+  writer:
+    localhost:8000
+  reader:
+    [
+    localhost:8000,
+    localhost:8001,
+    localhost:8002
+    ]
+12456:
+  writer:
+    localhost:8000
+  reader:
+    [
+    localhost:8000,
+    localhost:8001,
+    localhost:8002
+    ]

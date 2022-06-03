@@ -1,0 +1,15 @@
+project2:
+I have watched this youtube video to understand about how to establish server and client communication:https://www.youtube.com/watch?v=YudT0nHvkkE
+the related github code to this youtube video: https://github.com/tech-with-moss/go-usermgmt-grpc
+I have used the hash code which is given in the project Description
+I have understood about the mutexes in go by using the link given by professor
+As it was given non persistent collection I have used map to store the values and refered this link to understand the concept https://www.geeksforgeeks.org/golang-program-that-uses-structs-as-map-keys/
+I have read all the links which are mentioned in the question document to understand topics and built my code.
+
+
+project 3:
+along with these references i have also used this link to know how to read from yaml file
+https://zetcode.com/golang/yaml/ ("for the code in func init of server and client i used this)
+
+and the algorithm for read and write operation was completely based on the book intro to reliable and secure distributed programming
+page no(158-159)
